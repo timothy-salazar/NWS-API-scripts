@@ -44,6 +44,7 @@ if [ $HELP -eq 1 ]; then
         --quiet /-q : suppresses warning message
         --help / -h : displays this help text
     "
+    exit 0
 fi
 
 #############################
